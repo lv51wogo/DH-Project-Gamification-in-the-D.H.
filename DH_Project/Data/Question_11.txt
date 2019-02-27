@@ -1,0 +1,5 @@
+ Which one has the highest precedence ?:Q
+ Exponential:F
+ Parentheses:T
+ Addition:F
+ Multiplication:F

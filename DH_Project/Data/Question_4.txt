@@ -1,0 +1,5 @@
+Which of the following can not be a variable ?:Q
+__init__:F
+in:T
+it:F
+on:F

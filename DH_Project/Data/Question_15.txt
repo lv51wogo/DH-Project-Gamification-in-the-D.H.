@@ -1,0 +1,5 @@
+ Where can functions be defined ?:Q
+ Module:F
+ Class:F
+ Another Function:F
+ All of the mentioned:T

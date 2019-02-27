@@ -1,0 +1,5 @@
+Which of the following is a Boolean ?:Q
+True:T
+1:F
+42:F
+Wahr:F

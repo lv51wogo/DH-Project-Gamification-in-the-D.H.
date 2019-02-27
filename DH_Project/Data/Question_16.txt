@@ -1,0 +1,5 @@
+What is the type of each element in sys.argv ?:Q
+set:F
+list:F
+tuple:F
+string:T

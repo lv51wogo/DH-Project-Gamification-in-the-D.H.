@@ -1,0 +1,5 @@
+Is Python case sensitive when dealing with identifiers ?:Q
+Yes:T
+No:F
+Machine dependent:F
+None of the mentioned:F

@@ -1,0 +1,5 @@
+What is the answer of this expression ? 22 % 3 :Q
+7:F
+0:F
+5:F
+1:T

@@ -1,0 +1,5 @@
+Which of the following is a Python tuple ?:Q
+[1, 2, 3]:F
+(1,2,3):T
+{1,2,3]:F
+[(1),(2)]:F

@@ -1,0 +1,5 @@
+﻿What is the putput of the expression bin(29) ?:Q
+0b10111:F
+0b11101:T
+0b11110:F
+0b11011:F

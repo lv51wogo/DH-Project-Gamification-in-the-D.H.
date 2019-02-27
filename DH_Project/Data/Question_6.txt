@@ -1,0 +1,5 @@
+Operators with the same precedence are evaluated in which manner ?:Q
+Left to Right:T
+Right to Left:F
+Random:F
+None of the above:F

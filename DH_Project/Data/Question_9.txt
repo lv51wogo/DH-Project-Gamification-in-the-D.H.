@@ -1,0 +1,5 @@
+Which one of these is floor division ?:Q
+/:F
+%:F
+//:T
+none of the above:F

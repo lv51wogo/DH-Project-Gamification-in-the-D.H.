@@ -1,0 +1,5 @@
+Which of the following functions is a built-in function in python ?:Q
+seed():F
+print():T
+factorial:F
+sqrt():F

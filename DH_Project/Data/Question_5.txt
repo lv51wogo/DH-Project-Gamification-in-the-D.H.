@@ -1,0 +1,5 @@
+Which of the following is invalid ?:Q
+_a = 1:F
+__a = 1:F
+__str__ = 1:F
+none of the mentioned:T

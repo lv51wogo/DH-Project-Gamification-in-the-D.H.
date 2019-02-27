@@ -1,0 +1,5 @@
+What is the return value of trunc() ?:Q
+int:T
+bool:F
+float:F
+None:F

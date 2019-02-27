@@ -1,0 +1,5 @@
+Which of the following statements is used to create an empty set ?:Q
+{}:F
+set():T
+[]:F
+():F
